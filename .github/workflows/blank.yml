@@ -1,0 +1,12 @@
+#This is the logic development of Python
+Declarations
+  x = int
+  y = int
+  z = x + y
+start
+display("enter a number")
+input x
+display("enter a second number")
+input y
+display("your sum is" + z)
+stop
